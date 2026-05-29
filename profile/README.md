@@ -1,12 +1,23 @@
-## Hi there 👋
+# Lunavale
 
-<!--
+Welcome to the world of **Lunavale**.
 
-**Here are some ideas to get you started:**
+Lunavale is an upcoming game project focused on exploration, discovery, creativity, and the stories that emerge when players shape a world together. Every journey is meant to feel personal, with opportunities to carve your own path, uncover hidden secrets, and leave a lasting impact on the world around you.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+While the project is still evolving, the goal remains simple:
+
+> Create a world that feels alive, memorable, and worth returning to.
+
+## Development Status
+
+Lunavale is currently in active development. Features, artwork, systems, and gameplay elements are all subject to change as the vision continues to grow.
+
+## Follow the Journey
+
+Development updates, previews, and announcements will be shared as milestones are reached.
+
+The adventure is only beginning.
+
+---
+
+*"Every world begins as a dream. Lunavale is ours."*
