@@ -16,11 +16,11 @@ Lunavale is currently in active development. Features, artwork, systems, and gam
 
 These estimates are based on the current project roadmap and may shift as progress, testing, scope decisions, or release readiness changes.
 
-![Internal Alpha](https://img.shields.io/badge/Internal%20Alpha-Nov%2020%2C%202028-6f42c1)
-![Internal Beta](https://img.shields.io/badge/Internal%20Beta-Dec%2015%2C%202028-0366d6)
-![Public Beta](https://img.shields.io/badge/Public%20Beta-Feb%2015%2C%202029-1f883d)
-![Public Early Release](https://img.shields.io/badge/Public%20Early%20Release-Mar%2013%2C%202029-bc4c00)
-![Public Release](https://img.shields.io/badge/Public%20Release-Jun%2012%2C%202029-d1242f)
+![Internal Alpha](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/badges/main/.badges/releases/internal-alpha.json)
+![Internal Beta](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/badges/main/.badges/releases/internal-beta.json)
+![Public Beta](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/badges/main/.badges/releases/public-beta.json)
+![Public Early Release](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/badges/main/.badges/releases/public-early-release.json)
+![Public Release](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/badges/main/.badges/releases/public-release.json)
 
 ## Follow the Journey
 
