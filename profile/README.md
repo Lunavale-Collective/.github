@@ -10,6 +10,8 @@ While the project is still evolving, the goal remains simple:
 
 ## Development Status
 
+![Current Phase](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/badges/main/.badges/roadmap/current-phase.json)
+
 Lunavale is currently in active development. Features, artwork, systems, and gameplay elements are all subject to change as the vision continues to grow.
 
 ## Current Timeline
