@@ -10,7 +10,7 @@ While the project is still evolving, the goal remains simple:
 
 ## Development Status
 
-![Current Phase](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/badges/main/.badges/roadmap/current-phase.json)
+![Current Phase](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/workflows/main/.badges/roadmap/current-phase.json)
 
 Lunavale is currently in active development. Features, artwork, systems, and gameplay elements are all subject to change as the vision continues to grow.
 
@@ -18,11 +18,11 @@ Lunavale is currently in active development. Features, artwork, systems, and gam
 
 These estimates are based on the current project roadmap and may shift as progress, testing, scope decisions, or release readiness changes.
 
-![Internal Alpha](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/badges/main/.badges/releases/internal-alpha.json)
-![Internal Beta](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/badges/main/.badges/releases/internal-beta.json)
-![Public Beta](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/badges/main/.badges/releases/public-beta.json)
-![Public Early Release](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/badges/main/.badges/releases/public-early-release.json)
-![Public Release](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/badges/main/.badges/releases/public-release.json)
+![Internal Alpha](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/workflows/main/.badges/releases/internal-alpha.json)
+![Internal Beta](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/workflows/main/.badges/releases/internal-beta.json)
+![Public Beta](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/workflows/main/.badges/releases/public-beta.json)
+![Public Early Release](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/workflows/main/.badges/releases/public-early-release.json)
+![Public Release](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/badges/workflows/.badges/releases/public-release.json)
 
 ## Follow the Journey
 
