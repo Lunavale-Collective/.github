@@ -22,7 +22,7 @@ These estimates are based on the current project roadmap and may shift as progre
 ![Internal Beta](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/workflows/main/.badges/releases/internal-beta.json)
 ![Public Beta](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/workflows/main/.badges/releases/public-beta.json)
 ![Public Early Release](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/workflows/main/.badges/releases/public-early-release.json)
-![Public Release](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/badges/workflows/.badges/releases/public-release.json)
+![Public Release](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/workflows/main/.badges/releases/public-release.json)
 
 ## Follow the Journey
 
@@ -33,3 +33,5 @@ The adventure is only beginning.
 ---
 
 *"Every world begins as a dream. Lunavale is ours."*
+
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FLunavale-Collective%2Fworkflows%2Fmain%2F.badges%2Fworkflows%2Frelease-dates-updated.json&label=Last%20Updated)
