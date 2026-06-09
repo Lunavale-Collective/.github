@@ -34,4 +34,4 @@ The adventure is only beginning.
 
 *"Every world begins as a dream. Lunavale is ours."*
 
-![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FLunavale-Collective%2Fworkflows%2Fmain%2F.badges%2Fworkflows%2Frelease-dates-updated.json&label=Last%20Updated)
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FLunavale-Collective%2Fworkflows%2Fmain%2F.badges%2Fworkflows%2Frelease-dates-updated.json&label=Dates%20Last%20Updated%20On)
