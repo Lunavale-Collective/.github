@@ -20,6 +20,9 @@ Lunavale is currently in active development. Features, artwork, systems, and gam
 
 These estimates are based on the current project roadmap and may shift as progress, testing, scope decisions, or release readiness changes.
 
+![Schedule Variance](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/workflows/main/.badges/roadmap/schedule-variance.json)
+![Schedule Delta](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/workflows/main/.badges/roadmap/schedule-delta.json)
+
 ![Internal Alpha](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/workflows/main/.badges/releases/internal-alpha.json)<br>
 ![Internal Beta](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/workflows/main/.badges/releases/internal-beta.json)<br>
 ![Public Beta](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lunavale-Collective/workflows/main/.badges/releases/public-beta.json)<br>
